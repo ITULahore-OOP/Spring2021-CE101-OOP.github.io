@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Object Oriented Programming EE
+title: Object Oriented Programming CE
 subjectName: Object Oriented Programming
 tagline: Spring 2021 - CE101 - OOP #Update Tag Line & URL at line no 21 & CNAME File #Fall 2022 - CE200 - DSA
 description: In contrast to procedural programming, object-oriented programming is about identifying and creating objects. They have both functions and data, this help in encapsulating functionality. Object Oriented Programming (OOP) is the most commonly used mode of computer programming owing to its construction and ability to break down complex problem into simpler components. In this course, C++ language is used to teach the fundamentals of OOP.
