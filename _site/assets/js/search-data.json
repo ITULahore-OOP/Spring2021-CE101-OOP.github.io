@@ -1,0 +1,62 @@
+{"0": {
+    "doc": "Page of Fame",
+    "title": "Students",
+    "content": "Best Students of Object Oriented Programming EE . ",
+    "url": "http://localhost:4000/famepage/#students",
+    "relUrl": "/famepage/#students"
+  },"1": {
+    "doc": "Page of Fame",
+    "title": "Top 3 Performers",
+    "content": " ",
+    "url": "http://localhost:4000/famepage/#top-3-performers",
+    "relUrl": "/famepage/#top-3-performers"
+  },"2": {
+    "doc": "Page of Fame",
+    "title": "Page of Fame",
+    "content": "| ",
+    "url": "http://localhost:4000/famepage/",
+    "relUrl": "/famepage/"
+  },"3": {
+    "doc": "Object Oriented Programming EE",
+    "title": "Spring 2021 - CE101 - OOP",
+    "content": " ",
+    "url": "http://localhost:4000/#spring-2021---ce101---oop",
+    "relUrl": "/#spring-2021---ce101---oop"
+  },"4": {
+    "doc": "Object Oriented Programming EE",
+    "title": "Object Oriented Programming",
+    "content": "In contrast to procedural programming, object-oriented programming is about identifying and creating objects. They have both functions and data, this help in encapsulating functionality. Object Oriented Programming (OOP) is the most commonly used mode of computer programming owing to its construction and ability to break down complex problem into simpler components. In this course, C++ language is used to teach the fundamentals of OOP. ",
+    "url": "http://localhost:4000/#object-oriented-programming",
+    "relUrl": "/#object-oriented-programming"
+  },"5": {
+    "doc": "Object Oriented Programming EE",
+    "title": "Object Oriented Programming EE",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"6": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "http://localhost:4000/staff/#staff",
+    "relUrl": "/staff/#staff"
+  },"7": {
+    "doc": "Staff",
+    "title": "Instructor",
+    "content": " ",
+    "url": "http://localhost:4000/staff/#instructor",
+    "relUrl": "/staff/#instructor"
+  },"8": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": " ",
+    "url": "http://localhost:4000/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  },"9": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "| ",
+    "url": "http://localhost:4000/staff/",
+    "relUrl": "/staff/"
+  }
+}
